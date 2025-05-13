@@ -1,0 +1,14 @@
+names:
+- freshapples
+- rottenapples
+- freshbanana
+- rottenbanana
+- freshoranges
+- rottenoranges
+- freshpotato
+- rottenpotato
+- freshtomato
+- rottentomato
+nc: 10
+train: C:/Users/marck/OneDrive/Documentos/Proyecto_ia/data/processed/images/train
+val: C:/Users/marck/OneDrive/Documentos/Proyecto_ia/data/processed/images/val

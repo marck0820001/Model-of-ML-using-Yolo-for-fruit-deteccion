@@ -1,0 +1,19 @@
+# Entornos virtuales
+venv/
+.env/
+
+# Archivos de Python innecesarios
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos grandes o modelos (ejemplo)
+*.h5
+*.pt
+*.weights
+*.onnx
+*.ckpt
+
+# Dataset (opcional si no quieres subir imágenes)
+data/
